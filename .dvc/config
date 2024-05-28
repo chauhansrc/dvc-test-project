@@ -1,0 +1,4 @@
+[cache]
+    dir = /datadrive/datasets/dvc_test/data_v2/dvc_cache
+    type = "reflink,symlink,hardlink,copy"
+    protected = true
